@@ -10,8 +10,8 @@ Jika kamu tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedin](h
 
 <p align="left">
 <a href="https://github.com/ravihabibillah">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ravihabibillah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ravihabibillah&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ravihabibillah&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ravihabibillah&layout=compact&langs_count=8&theme=vue-dark"/>
 </a>
 </p>
 
