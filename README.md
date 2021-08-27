@@ -1,12 +1,12 @@
 ### Halo Semua! 👋
-Perkenalkan nama saya **Muhammad Ravi Habibillah**.
+Perkenalkan namaku **Muhammad Ravi Habibillah**.
 
-Saya seorang **Mahasiswa** di UPN "Veteran" Yogyakarta.
+Aku seorang **Mahasiswa** di UPN "Veteran" Yogyakarta.
 
-Saya saat ini sedang mengikuti kegiatan Pengembang Aplikasi Android dan Multi-Platform di Dicoding 
+Aku saat ini sedang mengikuti kegiatan Pengembang Aplikasi Android dan Multi-Platform di Dicoding 
 melalui Program Studi Independen yang diadakan oleh Kampus Merdeka.
 
-Jika kamu tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-ravi-habibillah-7b207b175/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-ravi-habibillah-7b207b175/)ku ya.
 
 <p align="left">
 <a href="https://github.com/ravihabibillah">
