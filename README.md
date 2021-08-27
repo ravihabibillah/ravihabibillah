@@ -8,6 +8,13 @@ melalui Program Studi Independen yang diadakan oleh Kampus Merdeka.
 
 Jika kamu tertarik untuk berkenalan dengan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-ravi-habibillah-7b207b175/)ku ya.
 
+<p align="left">
+<a href="https://github.com/ravihabibillah">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ravihabibillah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ravihabibillah&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **ravihabibillah/ravihabibillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
