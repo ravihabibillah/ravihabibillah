@@ -1,6 +1,7 @@
-### Halo Semua! 👋
+## Halo Semua! 👋
 Perkenalkan namaku **Muhammad Ravi Habibillah**.
 
+## About Me:
 Aku seorang **Mahasiswa** di UPN "Veteran" Yogyakarta.
 
 Aku saat ini sedang mengikuti kegiatan Pengembang Aplikasi Android dan Multi-Platform di Dicoding 
@@ -8,19 +9,25 @@ melalui Program Studi Independen yang diadakan oleh Kampus Merdeka.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-ravi-habibillah-7b207b175/)ku ya.
 
-### Softwares:
+## Softwares:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <br />
 <br />
+
 ---
-<p align="left">
+
+<p align="center">
 <a href="https://github.com/ravihabibillah">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ravihabibillah&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ravihabibillah&layout=compact&langs_count=8&theme=vue-dark"/>
 </a>
 </p>
 
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ravihabibillah"/>       
+</p>
 
+![M Ravi Habibillah](https://raw.githubusercontent.com/ravihabibillah/ravihabibillah/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 <!--
 **ravihabibillah/ravihabibillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
