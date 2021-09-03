@@ -27,7 +27,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ravihabibillah"/>       
 </p>
 
-![M Ravi Habibillah](https://raw.githubusercontent.com/ravihabibillah/ravihabibillah/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+![M Ravi Habibillah](./bottom_header.svg)
 <!--
 **ravihabibillah/ravihabibillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
