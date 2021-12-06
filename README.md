@@ -1,13 +1,13 @@
-## Halo Semua! 👋
-Perkenalkan namaku **Muhammad Ravi Habibillah**.
+## Hi All! 👋
+I'm **Muhammad Ravi Habibillah**. 😊
 
 ## About Me:
-🎓 Aku seorang **Mahasiswa** di UPN "Veteran" Yogyakarta.
+🎓 I'm a **College Student** in UPN "Veteran" Yogyakarta
 
-🌱 Aku saat ini sedang mengikuti kegiatan Pengembang Aplikasi Android dan Multi-Platform di Dicoding 
-melalui Program Studi Independen yang diadakan oleh Kampus Merdeka.
+🌱 I'm currently participating  in Pengembang Aplikasi Android dan Multi-Platform activities in Dicoding 
+through the Independent Study program held by the Kampus Merdeka
 
-💬 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-ravi-habibillah-7b207b175/)ku ya.
+💬 If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/muhammad-ravi-habibillah-7b207b175/)ku ya.
 
 ## Tech Stack:
 <!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
