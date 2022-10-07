@@ -2,9 +2,11 @@
 I'm **Muhammad Ravi Habibillah**. 😊
 
 ## About Me:
+💻 i'm currently working at PT. Loh Jinawi Teknologi as Mobile Developer
+
 🎓 I'm a **College Student** in UPN "Veteran" Yogyakarta
 
-🌱 I'm currently participating  in Pengembang Aplikasi Android dan Multi-Platform activities in Dicoding 
+🌱 I was participating in Pengembang Aplikasi Android dan Multi-Platform activities in Dicoding 
 through the Independent Study program held by the Kampus Merdeka
 
 💬 If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/muhammad-ravi-habibillah-7b207b175/).
