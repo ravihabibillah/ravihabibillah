@@ -9,7 +9,7 @@ I'm **Muhammad Ravi Habibillah**. 😊
 🌱 I was participating in Pengembang Aplikasi Android dan Multi-Platform activities in Dicoding 
 through the Independent Study program held by the Kampus Merdeka
 
-💬 If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/muhammad-ravi-habibillah-7b207b175/).
+💬 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/muhammad-ravi-habibillah-7b207b175/) account.
 
 ## Tech Stack:
 <!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
