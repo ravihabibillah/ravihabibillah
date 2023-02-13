@@ -42,6 +42,13 @@ through the Independent Study program held by the Kampus Merdeka
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ravihabibillah"/>       
 </p>
 
+<div align="center">
+  <a href="https://github.com/emenodon">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
 ![M Ravi Habibillah](./bottom_header.svg)
 <!--
 **ravihabibillah/ravihabibillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
