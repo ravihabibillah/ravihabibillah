@@ -43,7 +43,7 @@ through the Independent Study program held by the Kampus Merdeka
 </p>
 
 <div align="center">
-  <a href="https://github.com/emenodon">
+  <a href="https://github.com/ravihabibillah">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
