@@ -1,33 +1,26 @@
-## Hi All! 👋
-I'm **Muhammad Ravi Habibillah**. 😊
+# 👋 Hi, I'm Muhammad Ravi Habibillah!
 
-## About Me:
-💻 i'm currently working at PT. Loh Jinawi Teknologi as Mobile Developer
+🎓 A passionate Mobile Developer and a tech enthusiast with a knack for building cross-platform applications. Currently, I'm diving deep into the world of mobile development at PT. Loh Jinawi Teknologi.
 
-🎓 I'm a **College Student** in UPN "Veteran" Yogyakarta
+## 🚀 About Me:
+- 🎓 College Student at UPN "Veteran" Yogyakarta.
+- 📚 Former participant in the **Android and Multi-Platform Development** program at Dicoding through the Kampus Merdeka Independent Study initiative.
+- 💻 Experienced in Flutter, Dart, Kotlin, and more, I love crafting sleek, efficient mobile applications that bring ideas to life.
 
-🌱 I was participating in Pengembang Aplikasi Android dan Multi-Platform activities in Dicoding 
-through the Independent Study program held by the Kampus Merdeka
+## 🌱 Always Learning:
+I’m constantly exploring new technologies and methodologies to stay up-to-date with industry trends. Currently, I’m focusing on advancing my skills in **mobile architecture** and **state management**.
 
-💬 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/muhammad-ravi-habibillah-7b207b175/) account.
 
-## Tech Stack:
-<!-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=007ACC)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=007ACC)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+## 💬 Let's Connect:
+I'm always open to discussing tech, collaboration, or opportunities. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/muhammad-ravi-habibillah/).
+
+## 🛠️ Tech Stack:
+- **Languages & Frameworks:** ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=007ACC)&nbsp; ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=007ACC)&nbsp; ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp; ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp; ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+- **Tools:** ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+ ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; 
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+- **Specialties:** Cross-platform app development, Slicing UI/UX design, RESTFUL API integration
 
-<br />
-<br />
 
 ---
 
@@ -42,25 +35,7 @@ through the Independent Study program held by the Kampus Merdeka
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ravihabibillah"/>       
 </p>
 
-<!-- <div align="center">
-  <a href="https://github.com/ravihabibillah">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div> -->
 
 
 ![M Ravi Habibillah](./bottom_header.svg)
-<!--
-**ravihabibillah/ravihabibillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
