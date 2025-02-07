@@ -1,14 +1,15 @@
 # 👋 Hi, I'm Muhammad Ravi Habibillah!
 
-🎓 A passionate Mobile Developer and a tech enthusiast with a knack for building cross-platform applications. Currently, I'm diving deep into the world of mobile development at PT. Loh Jinawi Teknologi.
+🎓 A passionate Mobile Developer and a tech enthusiast with a knack for building cross-platform applications. Currently, I'm diving deep into the world of mobile development at PT. ENB Mobile Care.
 
 ## 🚀 About Me:
 - 🎓 College Student at UPN "Veteran" Yogyakarta.
 - 📚 Former participant in the **Android and Multi-Platform Development** program at Dicoding through the Kampus Merdeka Independent Study initiative.
 - 💻 Experienced in Flutter, Dart, Kotlin, and more, I love crafting sleek, efficient mobile applications that bring ideas to life.
+- 🏢 Previously worked at **PT. Loh Jinawi Teknologi** for 2 years as a **Mobile Developer** and successfully released **2 applications** to Play Store and App Store: **"Kang Dolan"** and **"YISA"**.
 
 ## 🌱 Always Learning:
-I’m constantly exploring new technologies and methodologies to stay up-to-date with industry trends. Currently, I’m focusing on advancing my skills in **mobile architecture** and **state management**.
+I’m constantly exploring new technologies and methodologies to stay up-to-date with industry trends. Currently, I’m focusing on advancing my skills in **Mobile App Development** using **Flutter** and **Kotlin**, while also learning **Swift** to expand my expertise in iOS development.
 
 
 ## 💬 Let's Connect:
